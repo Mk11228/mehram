@@ -1,2 +1,0 @@
-# mehram
-Mehram crypto bot
